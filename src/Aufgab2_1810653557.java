@@ -15,6 +15,5 @@ public class Aufgab2_1810653557 {
         //Konstante
         final int v = 218;
         //Final, also die Konstante, legt einen unveränderbaren Grenzwert fest. Variablen jedoch können nachträglich noch geändert werden.
-
     }
 }
